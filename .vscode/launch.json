@@ -9,6 +9,16 @@
             "mainClass": "com.example.restapi.RestapiApplication",
             "projectName": "restapi",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-APIExample<restapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.restapi.controller.APIExample",
+            "projectName": "restapi",
+            "args": ""
         }
     ]
 }
